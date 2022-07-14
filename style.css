@@ -6,8 +6,8 @@ body{
 #logo{
     width: 45px;
     height: auto;
-    text-align: center;
-    margin-left: 500px;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
     padding-top: 20px;
     
