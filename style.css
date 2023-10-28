@@ -33,6 +33,7 @@ a{
     padding-left: 10px;
     display: inline-block;
     line-height: 20px;
+    width: 100%;
 }
 #title{
     text-align: center;
